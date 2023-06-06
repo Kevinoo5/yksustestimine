@@ -1,4 +1,4 @@
-import {aLoendaja} from '../f2';
+import {aLoendaja} from '../src/f2';
 test('aLoendaja', () => {
     expect(aLoendaja("a")).toBe(1);
     expect(aLoendaja("b")).toBe(0);
